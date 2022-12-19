@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UD5T2</name>
+    </assembly>
+    <members>
+        <member name="M:UD5T2.BMIView.#ctor">
+            <summary>
+            BINDEA EL VIEWMODEL CON LOS RESULTADOS QUE DEMOS
+            </summary>
+        </member>
+    </members>
+</doc>
